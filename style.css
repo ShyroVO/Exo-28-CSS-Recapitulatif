@@ -1,0 +1,30 @@
+
+    .paragraphe1 {
+        color: blue;
+
+    }
+
+    .paragraphe2 {
+        font-family: "Courier New", sans-serif;
+    }
+
+    .paragraphe3 {
+        text-align: center;
+    }
+
+    .paragraphe4 {
+        font-size: 50px;
+    }
+
+    .div1 {
+        background: yellow;
+    }
+
+    .div2 {
+        text-align: center;
+    }
+
+    .div3 {
+        border: blue solid 1px;
+        min-height: 200px;
+    }
